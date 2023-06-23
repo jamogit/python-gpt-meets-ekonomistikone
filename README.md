@@ -32,5 +32,5 @@ Korvaa GeePeeTeeEkonomisti-luokassa muuttujat omilla tiedoillasi:
 4) Tulostaa GPT-mallin vastauksen ja lisää tiedot vastaukset.txt-tiedostoon
 
 ## Tunnetut puutteet
-- Sovellus ei hae väittämiä sivutetuilta sivuilta, paitsi ensimmäisellä sivulla näkyvät väittämät
-- ChatGPT tunnetusti hallusinoi, joten vastaukset on syytä tarkistaa kriittisellä silmällä.
+- Sovellus ei hae väittämiä sivutettujen sivujen alasivuilta. Esimerkiksi aiheeseen _kilpailukyky_ liittyviä väittämiä on enemmän kuin sivulla https://www.ekonomistikone.fi/tag/kilpailukyky/ näkyy.
+- ChatGPT hallusinoi, joten vastaukset on syytä tarkistaa kriittisellä silmällä.
