@@ -12,6 +12,9 @@ messages = [{"role":"system","content":"Olet suomalainen ekonomisti. Kerro mieli
                         {"role":"user","content": prompt},
                         {"role":"assistant","content":"{Mielipide]. Ekonomistit ovat usein erimielisiä valitusoikeuden rajoittamisen vaikutuksista maankäyttöasioissa, koska {perustelut}.\nPerustelut johonkin taloustieteelliseen malliin perustuen, mikäli mahdollista {taloustieteellinen malli}.\n{Mallin tunnetuimmat kehittäjät}."}
 
+### Vastaukset.txt
+Vastaukset.txt sisältää väittämät ja ChatGPT:n vastaukset. HUOM! Ohjelma tarkistaa löytyykö väittämä jo vastaukset.txt-tiedostosta eikä syötä sitä uudestaan ChatGPT:lle. Kaikki väittämät (tai osan väittämistä) voi käsitellä uudelleen poistamalla ne vastaukset-txt-tiedostosta.
+
 ## Asennus
 Asenna tarvittavat kirjastot komennolla
 pip install -r requirements.txt
