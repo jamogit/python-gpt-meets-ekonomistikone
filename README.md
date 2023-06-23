@@ -1,7 +1,7 @@
 # python-gpt-meets-ekonomistikone
 
 ## ChatGPT tapaa ekonomistikoneen
-Ohjelma noutaa suomalaisille ekonomisteille esitettyjä väittämiä sivustolta ekonomistikone.fi ja syöttää väittämät ChatGPT-mallille.
+Ohjelma noutaa suomalaisille ekonomisteille esitettyjä väittämiä sivustolta ekonomistikone.fi ja syöttää väittämät ChatGPT-mallille. ChatGPT antaa väittämään vastauksensa ja kertoo mielipiteensä.
 
 ### Vastaus
 ChatGPT antaa väittämään vastauksen asteikolla 1-5, jossa 1 = Vahvasti samaa mieltä ja 5 = Vahvasti eri mieltä. GPT-mallia kehotetaan antamaan vastaukseensa myös perustelut sekä mahdollinen taloustieteellinen malli, jolla se voisi vastausta arvioida. Lisäksi siltä pyydetään viite taloustieteellisen mallin tunnetuimpiin kehittäjiin. GPT-mallia kehotetaan antamaan vastauksena myös "0=Ei mielipidettä", jos se ei tiedä.
